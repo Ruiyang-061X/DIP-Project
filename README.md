@@ -1,9 +1,3 @@
-<style>
-table {
-margin: auto;
-}
-</style>
-
 DenseNet121-CBAM
 =
 Model
