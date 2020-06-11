@@ -13,7 +13,7 @@ Result
 The comparision between DenseNet121-CBAM and Li et al. is as follows:
 
 Method | Accuracy
-- | -
+-|-
 Li et al. SqueezeNet | 82.4
 Li et al. MobileNetV2 | 88.0
 Li et al. ShuffleNetV2 | **90.7**
@@ -21,7 +21,7 @@ DenseNet121-CBAM | 86.1
 
 The visualization is as follows, images in the left are Li et al. ShuffleNetV2's and images in the right are DenseNet121-CBAM's.
 <div align=center>
-<img src="image/result-figure12.png" width="60%" height="60%"/>
+<img src="image/result-figure12.png" width="50%" height="50%"/>
 </div>
 
 Usage
